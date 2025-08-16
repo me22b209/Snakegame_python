@@ -48,6 +48,6 @@ Building this game helped improve my coding skills and taught me how to create a
 
 ## Game Preview
 
-![Snake Game]([assets\Snake game](https://github.com/me22b209/Snakegame_python/blob/main/snakegame.py))
+![Snake Game](https://github.com/me22b209/Snakegame_python/blob/main/snakegame.py)
 
 
