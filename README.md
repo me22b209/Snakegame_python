@@ -29,7 +29,7 @@ This is a classic Snake Game built using Python and the Pygame library. The goal
 In your terminal or command prompt, run:
 ```bash
 python snakegame.py
-
+```
 ---
 
 ## About This Project
@@ -46,5 +46,8 @@ The purpose of this project was not just to recreate a classic game, but also to
 
 Building this game helped improve my coding skills and taught me how to create a complete project and publish it on GitHub. It is a great beginner-level project for anyone wanting to learn Python through practical application.
 
+## Game Preview
+
+![Snake Game](D:\Python\Snake game)
 
 
