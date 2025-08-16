@@ -48,6 +48,5 @@ Building this game helped improve my coding skills and taught me how to create a
 
 ## Game Preview
 
-![Snake Game](Snakegame1.png)
-
-
+![Preview1](Snakegame1.png)
+![Preview2](Snakegame2.png)
