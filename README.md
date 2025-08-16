@@ -48,6 +48,6 @@ Building this game helped improve my coding skills and taught me how to create a
 
 ## Game Preview
 
-![Snake Game](D:\Python\Snake game)
+![Snake Game](assets\Snake game)
 
 
