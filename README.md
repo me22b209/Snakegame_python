@@ -24,10 +24,27 @@ This is a classic Snake Game built using Python and the Pygame library. The goal
 - Simple and beginner-friendly code structure
 
 ---
+## How to run the game
 
-## 🛠 Requirements
-
-Make sure you have Python installed. Then install Pygame using:
-
+In your terminal or command prompt, run:
 ```bash
-pip install pygame
+python snakegame.py
+
+---
+
+## About This Project
+
+This Snake Game is a simple arcade-style game where the player controls a snake moving around the screen to eat food. Every time the snake eats the food, it grows longer and the player's score increases. The main challenge is to avoid crashing into the walls or into the snake's own body.
+
+The purpose of this project was not just to recreate a classic game, but also to understand how real-time games work using Python. It gave me hands-on experience with concepts like:
+
+- Game loops and frame rendering
+- Handling keyboard events
+- Collision detection
+- Modular and clean code structure
+- Working with external libraries (Pygame)
+
+Building this game helped improve my coding skills and taught me how to create a complete project and publish it on GitHub. It is a great beginner-level project for anyone wanting to learn Python through practical application.
+
+
+
